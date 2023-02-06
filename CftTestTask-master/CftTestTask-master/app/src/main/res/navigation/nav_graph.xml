@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/BinmetadataFragment">
+
+    <fragment
+        android:id="@+id/BinmetadataFragment"
+        android:name="ru.alexdeadman.cfttesttask.ui.binmetadata.BinMetadataFragment"
+        android:label="@string/bin_metadata"
+        tools:layout="@layout/fragment_binmetadata">
+        <action
+            android:id="@+id/action_BinmetadataFragment_to_AboutFragment"
+            app:destination="@id/AboutFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/AboutFragment"
+        android:name="ru.alexdeadman.cfttesttask.ui.about.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/fragment_about"/>
+</navigation>

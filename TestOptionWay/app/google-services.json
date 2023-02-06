@@ -1,0 +1,793 @@
+{
+  "project_info": {
+    "project_number": "526266531997",
+    "project_id": "guessfootbalclub",
+    "storage_bucket": "guessfootbalclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:e106ada2202444840fd474",
+        "android_client_info": {
+          "package_name": "apsm.work.bet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:d53ce00334e1a0e30fd474",
+        "android_client_info": {
+          "package_name": "casino.bestbetswinnings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:9fc6917dd90c3bf90fd474",
+        "android_client_info": {
+          "package_name": "com.btnpld.infstt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:31f11d9c012057aa0fd474",
+        "android_client_info": {
+          "package_name": "com.caladania.meniff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:0328a6160cff4fa50fd474",
+        "android_client_info": {
+          "package_name": "com.collect22allfootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:e1bf376c2ba62a550fd474",
+        "android_client_info": {
+          "package_name": "com.example.a10minworkoutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:e21c77914f9cdd800fd474",
+        "android_client_info": {
+          "package_name": "com.example.fooddiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:fa08383a146cb2610fd474",
+        "android_client_info": {
+          "package_name": "com.example.tappinggame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:e9631cc6404f851d0fd474",
+        "android_client_info": {
+          "package_name": "com.football3match.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:2bf13711f14aabf40fd474",
+        "android_client_info": {
+          "package_name": "com.kobietka.trainingtimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:b5093996d519f03f0fd474",
+        "android_client_info": {
+          "package_name": "com.phil.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:71226e5b582506110fd474",
+        "android_client_info": {
+          "package_name": "com.programminghero.basket_ball_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:bb418166ac5147950fd474",
+        "android_client_info": {
+          "package_name": "com.serezha.balloonSmash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:c96162ca33779d030fd474",
+        "android_client_info": {
+          "package_name": "dfsdf.cpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:62f10125e8ac5a170fd474",
+        "android_client_info": {
+          "package_name": "droid.maxaria.maxander.thimblegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:eb0982e20c11ace80fd474",
+        "android_client_info": {
+          "package_name": "example.firebase.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:2d133bdf1f2af4a40fd474",
+        "android_client_info": {
+          "package_name": "example.firebase.testoptionway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:b95b5ad92d1662430fd474",
+        "android_client_info": {
+          "package_name": "findball.game.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:766a85d32745a6f80fd474",
+        "android_client_info": {
+          "package_name": "flyingballs.tap.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:6a509a09830317e60fd474",
+        "android_client_info": {
+          "package_name": "games.ballorpizza.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:d51ce8a66f4c7cb90fd474",
+        "android_client_info": {
+          "package_name": "games.portmachine.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:76b3b15afdd274290fd474",
+        "android_client_info": {
+          "package_name": "games.sportword.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:5c50892a0dd49da40fd474",
+        "android_client_info": {
+          "package_name": "guess.football.club.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:184d91ff4fb0b36e0fd474",
+        "android_client_info": {
+          "package_name": "guess.football.club.com.guessthefootballclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:525afde2311508560fd474",
+        "android_client_info": {
+          "package_name": "guesstheball.game.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:dfc2a077ae6b90cd0fd474",
+        "android_client_info": {
+          "package_name": "millions.winnings.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526266531997:android:255d6f9d576a60180fd474",
+        "android_client_info": {
+          "package_name": "sport.ping.pong.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjzGNX2qt62pBdTmq1WyhpFpccmGWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526266531997-lbjrfc4joidd0v0d123hq2717k8q9ctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

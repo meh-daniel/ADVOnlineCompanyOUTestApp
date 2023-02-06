@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.binmetadata.BinMetadataFragment">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/text_view_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:drawablePadding="2dp"
+        android:text="@string/enter_a_bin"
+        android:textSize="18sp"
+        app:drawableEndCompat="@drawable/ic_info_17"
+        tools:visibility="visible" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/ti_layout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="@string/bin"
+            app:endIconMode="clear_text"
+            app:errorEnabled="true">
+
+            <com.google.android.material.textfield.MaterialAutoCompleteTextView
+                android:id="@+id/auto_complete_text_view_bin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:imeOptions="actionDone"
+                android:inputType="numberDecimal"
+                android:textSize="18sp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <ScrollView
+            android:id="@+id/scroll_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            tools:visibility="visible">
+
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:columnCount="2">
+
+                <TextView
+                    android:layout_columnSpan="2"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="10dp"
+                    android:text="@string/general_section"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text_view_scheme_title"
+                    android:layout_marginEnd="10dp"
+                    android:text="@string/scheme_network_title" />
+
+                <TextView
+                    android:id="@+id/text_view_scheme"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="Visa" />
+
+                <TextView
+                    android:id="@+id/text_view_brand_title"
+                    android:text="@string/brand_title" />
+
+                <TextView
+                    android:id="@+id/text_view_brand"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="Visa/Dankort" />
+
+                <TextView
+                    android:id="@+id/text_view_type_title"
+                    android:text="@string/type_title" />
+
+                <TextView
+                    android:id="@+id/text_view_type"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="Debit" />
+
+                <TextView
+                    android:id="@+id/text_view_prepaid_title"
+                    android:drawablePadding="2dp"
+                    android:text="@string/prepaid_title"
+                    app:drawableEndCompat="@drawable/ic_info_14" />
+
+                <TextView
+                    android:id="@+id/text_view_prepaid"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="No" />
+
+                <TextView
+                    android:layout_columnSpan="2"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="10dp"
+                    android:text="@string/card_number_section"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text_view_number_length_title"
+                    android:text="@string/number_length_title" />
+
+                <TextView
+                    android:id="@+id/text_view_number_length"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="16" />
+
+                <TextView
+                    android:id="@+id/text_view_number_luhn_title"
+                    android:drawablePadding="2dp"
+                    android:text="@string/number_luhn_title"
+                    app:drawableEndCompat="@drawable/ic_info_14" />
+
+                <TextView
+                    android:id="@+id/text_view_number_luhn"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="Yes" />
+
+                <TextView
+                    android:layout_columnSpan="2"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="10dp"
+                    android:text="@string/country_section"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text_view_country_name_title"
+                    android:text="@string/country_name_title" />
+
+                <TextView
+                    android:id="@+id/text_view_country_name"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="Denmark" />
+
+                <TextView
+                    android:id="@+id/text_view_country_flag_title"
+                    android:text="@string/country_flag_title" />
+
+                <TextView
+                    android:id="@+id/text_view_country_flag"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="🇩🇰" />
+
+                <TextView
+                    android:id="@+id/text_view_country_latitude_title"
+                    android:text="@string/country_latitude_title" />
+
+                <TextView
+                    android:id="@+id/text_view_country_latitude"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="56" />
+
+                <TextView
+                    android:id="@+id/text_view_country_longitude_title"
+                    android:text="@string/country_longitude_title" />
+
+                <TextView
+                    android:id="@+id/text_view_country_longitude"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="10" />
+
+                <TextView
+                    android:layout_columnSpan="2"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="10dp"
+                    android:text="@string/bank_section"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_name_title"
+                    android:text="@string/bank_name_title" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_name"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="Jyske Bank" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_city_title"
+                    android:text="@string/bank_city_title" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_city"
+                    android:layout_gravity="end"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="Hjørring" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_url_title"
+                    android:text="@string/bank_url_title" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_url"
+                    android:layout_gravity="end"
+                    android:autoLink="web"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="www.jyskebank.dk" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_phone_title"
+                    android:text="@string/bank_phone_title" />
+
+                <TextView
+                    android:id="@+id/text_view_bank_phone"
+                    android:layout_gravity="end"
+                    android:autoLink="phone"
+                    android:maxWidth="180dp"
+                    android:textAlignment="textEnd"
+                    android:textIsSelectable="true"
+                    tools:text="+4589893300" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/button_copy"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_columnSpan="2"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="15dp"
+                    android:text="@string/copy_to_clipboard"
+                    app:strokeColor="?attr/colorPrimary"
+                    app:strokeWidth="2dp" />
+            </GridLayout>
+        </ScrollView>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
